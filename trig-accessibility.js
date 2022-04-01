@@ -6,5 +6,5 @@ jQuery(document).ready(function($){
 	});
 	setTimeout(function(){
 		$('div.tp-bullet').append('<span class="pojo-sr-only sr-only">Nav Button</span>');
-	},500);
+	},1500);
 });
