@@ -4,5 +4,7 @@ jQuery(document).ready(function($){
 			$(this).attr('alt', 'Trig Image');
 		}
 	});
-	$('div.tp-bullet').append('<span class="pojo-sr-only sr-only">Nav Button</span>');
+	setTimeout(function(){
+		$('div.tp-bullet').append('<span class="pojo-sr-only sr-only">Nav Button</span>');
+	},500);
 });
