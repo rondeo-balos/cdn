@@ -1,4 +1,4 @@
-jQuery('document').ready(function($){
+    jQuery('document').ready(function($){
         //autoplay video
         playVimeo_init($);
     });
@@ -6,9 +6,11 @@ jQuery('document').ready(function($){
     function playVimeo_init($){
         var player = $('iframe[src*="player.vimeo.com"]');
         console.log(player);
-        if(player.length <= 0)
-            playVimeo_init($);
-        else
+        if(player.length <= 0){
+            setTimeout(function(){
+                playVimeo_init($);
+            },500);
+        }else
             playVimeo($, player);
     }
 
