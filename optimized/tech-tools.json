@@ -1,72 +1,72 @@
 {
-    laravel: {
-        name: 'Laravel',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/laravel.svg',
-        type: 'framework'
+    "laravel": {
+        "name": "Laravel",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/laravel.svg",
+        "type": "framework"
     },
-    vue: {
-        name: 'Vue',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/vue.svg',
-        type: 'framework'
+    "vue": {
+        "name": "Vue",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/vue.svg",
+        "type": "framework"
     },
-    tailwind: {
-        name: 'Tailwind',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/tailwind.svg',
-        type: 'framework'
+    "tailwind": {
+        "name": "Tailwind",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/tailwind.svg",
+        "type": "framework"
     },
-    css: {
-        name: 'CSS',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/css.svg',
-        type: 'language'
+    "css": {
+        "name": "CSS",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/css.svg",
+        "type": "language"
     },
-    js: {
-        name: 'Javascript',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/javascript.svg',
-        type: 'language'
+    "js": {
+        "name": "Javascript",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/javascript.svg",
+        "type": "language"
     },
-    php: {
-        name: 'PHP',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/new-php.svg',
-        type: 'language'
+    "php": {
+        "name": "PHP",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/new-php.svg",
+        "type": "language"
     },
-    java: {
-        name: 'Java',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/java.svg',
-        type: 'language'
+    "java": {
+        "name": "Java",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/java.svg",
+        "type": "language"
     },
-    html: {
-        name: 'HTML',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/html.svg',
-        type: 'language'
+    "html": {
+        "name": "HTML",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/html.svg",
+        "type": "language"
     },
-    git: {
-        name: 'Git',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/git.svg',
-        type: 'tool'
+    "git": {
+        "name": "Git",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/git.svg",
+        "type": "tool"
     },
-    mysql: {
-        name: 'MySQL',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/mysql.svg',
-        type: 'tool'
+    "mysql": {
+        "name": "MySQL",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/mysql.svg",
+        "type": "tool"
     },
-    vscode: {
-        name: 'VS Code',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/vscode.svg',
-        type: 'tool'
+    "vscode": {
+        "name": "VS Code",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/vscode.svg",
+        "type": "tool"
     },
-    wordpress: {
-        name: 'Wordpress',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/wordpress-white.svg',
-        type: 'others'
+    "wordpress": {
+        "name": "Wordpress",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/wordpress-white.svg",
+        "type": "others"
     },
-    clickfunnels: {
-        name: 'Clickfunnels',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/clickfunnels.svg',
-        type: 'others'
+    "clickfunnels": {
+        "name": "Clickfunnels",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/clickfunnels.svg",
+        "type": "others"
     },
-    shopify: {
-        name: 'Shopify',
-        image: 'https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/shopify.svg',
-        type: 'others'
+    "shopify": {
+        "name": "Shopify",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/shopify.svg",
+        "type": "others"
     }
 }
