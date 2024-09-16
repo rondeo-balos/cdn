@@ -19,6 +19,11 @@
         "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/tailwind.svg",
         "type": "framework"
     },
+    "bootstrap": {
+        "name": "Bootstrap",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/bootstrap.png",
+        "type": "framework"
+    },
     "css": {
         "name": "CSS",
         "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/css.svg",
