@@ -9,6 +9,11 @@
         "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/vue.svg",
         "type": "framework"
     },
+    "inertia": {
+        "name": "Inertia",
+        "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/inertia.svg",
+        "tye": "framework"
+    },
     "tailwind": {
         "name": "Tailwind",
         "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/tailwind.svg",
