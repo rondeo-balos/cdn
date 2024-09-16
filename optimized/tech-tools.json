@@ -12,7 +12,7 @@
     "inertia": {
         "name": "Inertia",
         "image": "https://cdn.jsdelivr.net/gh/rondeo-balos/cdn/optimized/inertia.svg",
-        "tye": "framework"
+        "type": "framework"
     },
     "tailwind": {
         "name": "Tailwind",
